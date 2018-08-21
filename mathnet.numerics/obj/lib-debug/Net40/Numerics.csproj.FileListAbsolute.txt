@@ -1,0 +1,16 @@
+e:\Adrian Garcia\Desarrollo\plangear\mathnet.numerics\out\lib-debug\Net40\MathNet.Numerics.dll
+e:\Adrian Garcia\Desarrollo\plangear\mathnet.numerics\out\lib-debug\Net40\MathNet.Numerics.pdb
+e:\Adrian Garcia\Desarrollo\plangear\mathnet.numerics\obj\lib-debug\Net40\Numerics.csprojResolveAssemblyReference.cache
+e:\Adrian Garcia\Desarrollo\plangear\mathnet.numerics\obj\lib-debug\Net40\MathNet.Numerics.Properties.Resources.resources
+e:\Adrian Garcia\Desarrollo\plangear\mathnet.numerics\obj\lib-debug\Net40\Numerics.csproj.GenerateResource.cache
+e:\Adrian Garcia\Desarrollo\plangear\mathnet.numerics\obj\lib-debug\Net40\Numerics.csproj.CoreCompileInputs.cache
+e:\Adrian Garcia\Desarrollo\plangear\mathnet.numerics\obj\lib-debug\Net40\MathNet.Numerics.dll
+e:\Adrian Garcia\Desarrollo\plangear\mathnet.numerics\obj\lib-debug\Net40\MathNet.Numerics.pdb
+E:\Acysa\Desarrollo\AcysaManager\mathnet.numerics\out\lib-debug\Net40\MathNet.Numerics.dll
+E:\Acysa\Desarrollo\AcysaManager\mathnet.numerics\out\lib-debug\Net40\MathNet.Numerics.pdb
+E:\Acysa\Desarrollo\AcysaManager\mathnet.numerics\obj\lib-debug\Net40\Numerics.csprojResolveAssemblyReference.cache
+E:\Acysa\Desarrollo\AcysaManager\mathnet.numerics\obj\lib-debug\Net40\MathNet.Numerics.Properties.Resources.resources
+E:\Acysa\Desarrollo\AcysaManager\mathnet.numerics\obj\lib-debug\Net40\Numerics.csproj.GenerateResource.cache
+E:\Acysa\Desarrollo\AcysaManager\mathnet.numerics\obj\lib-debug\Net40\Numerics.csproj.CoreCompileInputs.cache
+E:\Acysa\Desarrollo\AcysaManager\mathnet.numerics\obj\lib-debug\Net40\MathNet.Numerics.dll
+E:\Acysa\Desarrollo\AcysaManager\mathnet.numerics\obj\lib-debug\Net40\MathNet.Numerics.pdb

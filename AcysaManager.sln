@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedDataGridView", "advanceddatagridview\AdvancedDataGridView\AdvancedDataGridView.csproj", "{6EBA0A55-B390-4479-A564-58D46094998D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numerics", "mathnet.numerics\src\Numerics\Numerics.csproj", "{B7CAE5F4-A23F-4438-B5BE-41226618B695}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acysa_Maneger", "Acysa_Maneger\Acysa_Maneger.csproj", "{1B20C7C0-1343-4820-A393-CE0324D87D03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{22D4B536-3EAA-4FCE-966E-BE14F493E747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Release-Signed|Any CPU = Release-Signed|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EBA0A55-B390-4479-A564-58D46094998D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EBA0A55-B390-4479-A564-58D46094998D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EBA0A55-B390-4479-A564-58D46094998D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBA0A55-B390-4479-A564-58D46094998D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EBA0A55-B390-4479-A564-58D46094998D}.Release-Signed|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBA0A55-B390-4479-A564-58D46094998D}.Release-Signed|Any CPU.Build.0 = Release|Any CPU
+		{B7CAE5F4-A23F-4438-B5BE-41226618B695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CAE5F4-A23F-4438-B5BE-41226618B695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CAE5F4-A23F-4438-B5BE-41226618B695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CAE5F4-A23F-4438-B5BE-41226618B695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7CAE5F4-A23F-4438-B5BE-41226618B695}.Release-Signed|Any CPU.ActiveCfg = Release-Signed|Any CPU
+		{B7CAE5F4-A23F-4438-B5BE-41226618B695}.Release-Signed|Any CPU.Build.0 = Release-Signed|Any CPU
+		{1B20C7C0-1343-4820-A393-CE0324D87D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B20C7C0-1343-4820-A393-CE0324D87D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B20C7C0-1343-4820-A393-CE0324D87D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B20C7C0-1343-4820-A393-CE0324D87D03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B20C7C0-1343-4820-A393-CE0324D87D03}.Release-Signed|Any CPU.ActiveCfg = Release|Any CPU
+		{1B20C7C0-1343-4820-A393-CE0324D87D03}.Release-Signed|Any CPU.Build.0 = Release|Any CPU
+		{22D4B536-3EAA-4FCE-966E-BE14F493E747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D4B536-3EAA-4FCE-966E-BE14F493E747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D4B536-3EAA-4FCE-966E-BE14F493E747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D4B536-3EAA-4FCE-966E-BE14F493E747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D4B536-3EAA-4FCE-966E-BE14F493E747}.Release-Signed|Any CPU.ActiveCfg = Release|Any CPU
+		{22D4B536-3EAA-4FCE-966E-BE14F493E747}.Release-Signed|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95E42BFD-0568-4980-A8A7-6AD9ACEA4989}
+	EndGlobalSection
+EndGlobal
