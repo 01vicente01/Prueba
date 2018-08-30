@@ -61,8 +61,15 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="InterfazDeDatos.cs" />
     <Compile Include="vent_albaran.xaml.cs">
       <DependentUpon>vent_albaran.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vent_añadirLineaAlbaran.xaml.cs">
+      <DependentUpon>vent_añadirLineaAlbaran.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vent_listaDeArticulos.xaml.cs">
+      <DependentUpon>vent_listaDeArticulos.xaml</DependentUpon>
     </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -77,6 +84,14 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="vent_albaran.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vent_añadirLineaAlbaran.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vent_listaDeArticulos.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -109,9 +124,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj">
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\LibreriaDeClases.csproj">
       <Project>{22d4b536-3eaa-4fce-966e-be14f493e747}</Project>
-      <Name>ClassLibrary1</Name>
+      <Name>LibreriaDeClases</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

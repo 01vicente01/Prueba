@@ -8,3 +8,13 @@ e:\Adrian Garcia\Desarrollo\plangear\advanceddatagridview\AdvancedDataGridView\o
 e:\Adrian Garcia\Desarrollo\plangear\advanceddatagridview\AdvancedDataGridView\obj\Release\AdvancedDataGridView.csproj.CoreCompileInputs.cache
 e:\Adrian Garcia\Desarrollo\plangear\advanceddatagridview\AdvancedDataGridView\obj\Release\AdvancedDataGridView.dll
 e:\Adrian Garcia\Desarrollo\plangear\advanceddatagridview\AdvancedDataGridView\obj\Release\AdvancedDataGridView.pdb
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\advanceddatagridview\AdvancedDataGridView\bin\Release\AdvancedDataGridView.dll
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\advanceddatagridview\AdvancedDataGridView\bin\Release\AdvancedDataGridView.pdb
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\advanceddatagridview\AdvancedDataGridView\obj\Release\AdvancedDataGridView.csprojAssemblyReference.cache
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\advanceddatagridview\AdvancedDataGridView\obj\Release\Zuby.ADGV.AdvancedDataGridViewSearchToolBar.resources
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\advanceddatagridview\AdvancedDataGridView\obj\Release\Zuby.Properties.Resources.resources
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\advanceddatagridview\AdvancedDataGridView\obj\Release\Zuby.ADGV.FormCustomFilter.resources
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\advanceddatagridview\AdvancedDataGridView\obj\Release\AdvancedDataGridView.csproj.GenerateResource.cache
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\advanceddatagridview\AdvancedDataGridView\obj\Release\AdvancedDataGridView.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\advanceddatagridview\AdvancedDataGridView\obj\Release\AdvancedDataGridView.dll
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\advanceddatagridview\AdvancedDataGridView\obj\Release\AdvancedDataGridView.pdb

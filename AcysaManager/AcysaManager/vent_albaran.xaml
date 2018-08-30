@@ -5,9 +5,39 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AcysaManager"
         mc:Ignorable="d"
-        Title="vent_albaran" Height="450" Width="800">
+        Title="vent_albaran" Height="650" Width="1200">
     <Grid>
-        <Menu HorizontalAlignment="Left" Height="53" VerticalAlignment="Top" Width="782"/>
+        <DataGrid x:Name="DataGridAlbaran" ItemsSource="{Binding Customers}" SelectionMode="Extended" 
+           SelectionUnit="Cell" AutoGenerateColumns="False" AlternatingRowBackground="Gainsboro" AlternationCount="2"
+           HorizontalAlignment="Left" Height="486" VerticalAlignment="Top" Width="1172" Margin="10,10,0,0">
 
+            <!--Fuente y estilo-->
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="#FFF3FF00"/>
+                    <Setter Property="FontWeight" Value="SemiBold"/>
+                    <Setter Property="BorderThickness" Value="0,0,1,2"/>
+                    <Setter Property="BorderBrush" Value="Black"/>
+                </Style>
+            </DataGrid.Resources>
+
+            <!--Encabezados de las columnas -->
+            <DataGrid.Columns>
+                <DataGridTextColumn  Header="Nr" Binding="{Binding Path=Numero}" IsReadOnly="True" Width="60" />
+                <DataGridTextColumn  Header="Ref." Binding="{Binding Path=Referencia}" IsReadOnly="True" Width="70" />
+                <DataGridTextColumn  Header="Descripción" Binding="{Binding Path=Descripcion}" IsReadOnly="True" Width="260" />
+                <DataGridTextColumn  Header="Precio" Binding="{Binding Path=Precio}" IsReadOnly="True" Width="70" />
+                <DataGridTextColumn  Header="Dto." Binding="{Binding Path=Dto}" IsReadOnly="True" Width="40" />
+                <DataGridTextColumn  Header="Importe" Binding="{Binding Path=Importe}" IsReadOnly="True" Width="70" />
+                <DataGridTextColumn  Header="" IsReadOnly="True" Width="150"/>
+                <DataGridTextColumn  Header="Dto. Corrector de precios" Binding="{Binding Path=DtoCorrectorDePrecios}" IsReadOnly="True" Width="150" />
+                <DataGridTextColumn  Header="Coste" Binding="{Binding Path=Coste}" IsReadOnly="True" Width="70" />
+                <DataGridTextColumn  Header="Importe" Binding="{Binding Path=ImporteAnalisis}" IsReadOnly="True" Width="70" />
+                <DataGridTextColumn  Header="Beneficio" Binding="{Binding Path=Beneficio}" IsReadOnly="True" Width="70" />
+                <DataGridTextColumn  Header="Benef. %/Coste" Binding="{Binding Path=BeneficioPorCoste}" IsReadOnly="True" Width="*" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="ButtonAñadir_Linea" Content="Añadir nueva linae"  HorizontalAlignment="Center" Margin="351,545,587,0" VerticalAlignment="Top" Width="254" Height="29" Click="Añadir_Linea_Click"/>
+        <Button x:Name="ButtonAnalisis" Content="Análisis" HorizontalAlignment="Center" Margin="698,545,398,0" VerticalAlignment="Top" Width="96" Height="29" Click="ButtonAnalisis_Click"/>
     </Grid>
 </Window>

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-e:\Acysa\Desarrollo\Prueba\AcysaManager\AcysaManager\obj\Debug\
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\AcysaManager\obj\Debug\
 AcysaManager
 none
 false
 DEBUG;TRACE
-e:\Acysa\Desarrollo\Prueba\AcysaManager\AcysaManager\App.xaml
-2-1322062032
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\AcysaManager\App.xaml
+4-464728178
 
-10467657963
-15-459525529
-MainWindow.xaml;vent_albaran.xaml;
+91238937207
+151899603489
+MainWindow.xaml;vent_albaran.xaml;vent_añadirLineaAlbaran.xaml;vent_listaDeArticulos.xaml;
 
-True
+False
 

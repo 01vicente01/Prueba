@@ -7,3 +7,12 @@ e:\Adrian Garcia\Desarrollo\plangear\mathnet.numerics\obj\lib\Net40\Numerics.csp
 e:\Adrian Garcia\Desarrollo\plangear\mathnet.numerics\obj\lib\Net40\Numerics.csproj.CoreCompileInputs.cache
 e:\Adrian Garcia\Desarrollo\plangear\mathnet.numerics\obj\lib\Net40\MathNet.Numerics.dll
 e:\Adrian Garcia\Desarrollo\plangear\mathnet.numerics\obj\lib\Net40\MathNet.Numerics.pdb
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\mathnet.numerics\out\lib\Net40\MathNet.Numerics.xml
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\mathnet.numerics\out\lib\Net40\MathNet.Numerics.dll
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\mathnet.numerics\out\lib\Net40\MathNet.Numerics.pdb
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\mathnet.numerics\obj\lib\Net40\Numerics.csprojAssemblyReference.cache
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\mathnet.numerics\obj\lib\Net40\MathNet.Numerics.Properties.Resources.resources
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\mathnet.numerics\obj\lib\Net40\Numerics.csproj.GenerateResource.cache
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\mathnet.numerics\obj\lib\Net40\Numerics.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\mathnet.numerics\obj\lib\Net40\MathNet.Numerics.dll
+C:\Users\vicen\Documents\Proyecto\Prueba\AcysaManager\mathnet.numerics\obj\lib\Net40\MathNet.Numerics.pdb
